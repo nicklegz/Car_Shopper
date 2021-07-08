@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWHn3uFMJjPacjozKrmzd9nBF3A8TtQCLcOlgxRqA+9DU9EwCqKR01NgTuxG0RJIHBDTt7dWeC14WXygn1whkQ==",
+  "success": true,
+  "projectFilePath": "S:\\Programming\\Projects\\Autotrader_Web_Scraper\\Autotrader_Web_Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L3GZ\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\L3GZ\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}
